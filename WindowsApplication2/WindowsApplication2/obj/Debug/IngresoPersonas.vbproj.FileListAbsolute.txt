@@ -1,0 +1,10 @@
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\IngresoPersonas.exe.config
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\IngresoPersonas.exe
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\IngresoPersonas.pdb
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\IngresoPersonas.xml
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\IngresoPersonas.Form1.resources
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\IngresoPersonas.Resources.resources
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\IngresoPersonas.vbproj.GenerateResource.Cache
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\IngresoPersonas.exe
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\IngresoPersonas.xml
+c:\users\wolfgang\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\IngresoPersonas.pdb
